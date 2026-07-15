@@ -1,3 +1,5 @@
+<img width="1000" height="697" alt="Screenshot 2026-07-16 003647" src="https://github.com/user-attachments/assets/ed2c84d1-5374-4d32-9e9b-44e5a5593165" />
+<img width="1056" height="693" alt="Screenshot 2026-07-16 003200" src="https://github.com/user-attachments/assets/60025449-fcd2-473b-8f1f-57df7460c490" />
 # Breast Cancer Prediction using Machine Learning
 
 ## Project Overview
